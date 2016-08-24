@@ -21,7 +21,7 @@ Find and copy the *clone* URL.
 
 Navigate to Cloud9, log on, and create a new workspace named "lab-test".
 
-On the new workspace page, select the *Clone Workspace* option, paste the GitHub URL, use the HTML5 template and create a new workspace.
+On the new workspace page, paste the GitHub URL, use the HTML5 template and create a new workspace.
 
 ## Step 3 - Create a new file in your Cloud9 workspace.
 
