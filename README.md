@@ -37,7 +37,7 @@ Click the pop-out icon to see your page in a separate tab.
 
 In the terminal window, run *git status* and note the message;  it's indicating that the file system has changes not reflected in the repository.
 
-Run *git add \** ; this will add all updated files to the repository.
+Run *git add * \* ; this will add all updated files to the repository.
 
 Run *git status* again;  it's now indicating that those changes are not part of the most current project version.
 
