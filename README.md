@@ -6,7 +6,7 @@ This lab assumes you have already created your GitHub and Cloud9 accounts; if no
 We're going to minimize problems by following a simple workflow.
 
 1. Create an empty repository on GitHub.
-2. Create a new Cloud9 workspace that is a clone of that GitHub respository.
+2. Create a new Cloud9 workspace that is a clone of that GitHub repository.
 3. Edit and save files on Cloud9.
 4. Update your Cloud9 repository and push to GitHub.
 
