@@ -35,17 +35,17 @@ Click the pop-out icon to see your page in a separate tab.
 
 ## Step 4 - Update your local Git and push to GitHub
 
-In the terminal window, run *git status* and note the message;  it's indicating that the file system has changes not reflected in the repository.
+In the C9 terminal window, run `git status` and note the message;  it's indicating that the file system has changes not reflected in the repository.
 
-Run *git add * \* ; this will add all updated files to the repository.
+Run `git add *`; this will add all updated files to the repository.
 
-Run *git status* again;  it's now indicating that those changes are not part of the most current project version.
+Run `git status` again;  it's now indicating that those changes are not part of the most current project version.
 
-Run *git commit -m "add new file"*
+Run `git commit -m "add new file"`
 
-Run *git status* again.
+Run `git status` again.
 
-Now you need to update your GitHub repository; run *git push origin master* and enter your username and pw as needed.
+Now you need to update your GitHub repository; run `git push origin master` and enter your username and pw as needed.
 
 Open and refresh your GitHub repository page to see the changes.
 
